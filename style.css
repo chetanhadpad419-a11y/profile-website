@@ -86,3 +86,29 @@ footer {
 #contact a:hover {
   background: #005fa3;
 }
+.hero {
+  background: linear-gradient(135deg, #0077cc, #00b4d8);
+  color: white;
+  text-align: center;
+  padding: 80px 20px;
+}
+
+.hero h2 {
+  font-size: 40px;
+  margin-bottom: 15px;
+}
+
+.hero p {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 12px 25px;
+  background: white;
+  color: #0077cc;
+  text-decoration: none;
+  border-radius: 30px;
+  font-weight: bold;
+}
